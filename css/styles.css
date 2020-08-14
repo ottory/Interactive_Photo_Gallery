@@ -1,8 +1,11 @@
 *{
    box-sizing: border-box;
+   
 } 
 
-
+main {
+   text-align: center;
+}
 
 header {
   text-align: center;
